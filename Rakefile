@@ -15,7 +15,7 @@ end
 
 SUMMARY = 'kramdown-math-itex2mml uses itex2mml to convert math elements to MathML'
 
-PKG_FILES = FileList.new(['COPYING', 'VERSION', 'CONTRIBUTERS', 'lib/**/*.rb'])
+PKG_FILES = FileList.new(['COPYING', 'VERSION', 'CONTRIBUTERS', 'lib/**/*.rb', 'test/**/*'])
 
 CLOBBER << "VERSION"
 file 'VERSION' do
