@@ -3,7 +3,7 @@
 #--
 # Copyright (C) 2019 Thomas Leitner <t_leitner@gmx.at>
 #
-# This file is part of kramdown-parser-gfm which is licensed under the MIT.
+# This file is part of kramdown-math-itex2mml which is licensed under the MIT.
 #++
 #
 

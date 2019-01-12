@@ -4,7 +4,7 @@ This is a converter for [kramdown](https://kramdown.gettalong.org) that uses
 [itex2mml](https://golem.ph.utexas.edu/~distler/blog/itex2MML.html) to convert
 math formulas to MathML.
 
-Note: Until kramdown version 2.0.0 this converter was part of the kramdown
+Note: Until kramdown version 2.0.0 this math engine was part of the kramdown
 distribution.
 
 
